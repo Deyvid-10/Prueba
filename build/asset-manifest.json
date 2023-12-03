@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad61da17.css",
+    "main.js": "/static/js/main.8629c110.js",
+    "static/js/787.12f3fc55.chunk.js": "/static/js/787.12f3fc55.chunk.js",
+    "static/media/adivinar.png": "/static/media/adivinar.e1e7edba5707338fa6f2.png",
+    "index.html": "/index.html",
+    "main.ad61da17.css.map": "/static/css/main.ad61da17.css.map",
+    "main.8629c110.js.map": "/static/js/main.8629c110.js.map",
+    "787.12f3fc55.chunk.js.map": "/static/js/787.12f3fc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad61da17.css",
+    "static/js/main.8629c110.js"
+  ]
+}
